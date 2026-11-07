@@ -1,0 +1,1 @@
+PASS: hand-calculated metric fixture; five saved models reproduce all six metrics; disjoint train/test rows; six invalid CSV cases rejected; single-class AUC handled; Streamlit renders and all five model selections show correct metrics.
