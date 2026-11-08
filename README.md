@@ -22,10 +22,8 @@ Evaluation uses a single stratified 80:20 split, random_state=42: 455 training r
 
 ## c. Github Repository Link
 
-GitHub repository: PENDING - publish this project and supply the real link.
-Live Streamlit application: PENDING - deploy on Community Cloud and supply the real link.
-
-These are outstanding account-dependent steps, not completed deployment claims. See DEPLOYMENT.md. The PDF generator updates these entries when actual URLs and the genuine BITS lab screenshot are supplied.
+GitHub repository: https://github.com/2026aj05605/ML-Assignment-2-Streamlit
+Live Streamlit application: https://2026aj05605-ml-assignment-2.streamlit.app
 
 ## d. Models used
 
@@ -97,5 +95,3 @@ results/: holdout metrics, training CV results, confusion matrices, classificati
 requirements.txt, requirements-lock.txt: package specifications.
 DEPLOYMENT.md: BITS lab, GitHub, Streamlit and final PDF instructions.
 make_submission.py: PDF assembly from this README, deployment URLs and authentic lab screenshot; requires reportlab separately.
-
-
